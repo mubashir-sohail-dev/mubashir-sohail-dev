@@ -1,11 +1,11 @@
 <div align="center">
   <!-- Crisp, High-Resolution Local Vector Banner -->
-  <img src="./banner.svg" width="100%" alt="Mubashir Sohail Banner" />
+  <a href="#"><img src="./banner.svg" width="100%" alt="Mubashir Sohail Banner" /></a>
 
   <br/><br/>
 
   <!-- Rotating Dynamic Typing Subtitle -->
-  <a href="https://readme-typing-svg.demolab.com">
+  <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=Building+Production+RAG+Systems+%26+Agents;Architecting+Full-Stack+AI+Applications;Exploring+Dense+Vector+Search+%26+LLM+Pipelines;Designing+Autonomous+AI+Workflows&font=Fira+Code&center=true&width=560&height=46&color=6366F1&vCenter=true&pause=1100&size=19" alt="Typing SVG" />
   </a>
 
@@ -137,5 +137,5 @@ engineer:
 
 <div align="center">
   <!-- Subtle Vector Wave Footer -->
-  <img src="./footer.svg" width="100%" alt="Footer Banner" />
+  <a href="#"><img src="./footer.svg" width="100%" alt="Footer Banner" /></a>
 </div>
