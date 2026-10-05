@@ -14,7 +14,7 @@
     <a href="https://www.linkedin.com/in/mubashir-sohail-dev">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
     </a>
-    <a href="mailto:mubashir.sohail.dev@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mubashir.sohail.dev@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-mubashir.sohail.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
     </a>
     <a href="https://github.com/mubashir-sohail-dev">
