@@ -120,7 +120,7 @@
   <g transform="translate(600, 52)">
     <rect x="-170" y="-16" width="340" height="32" rx="16" fill="rgba(99, 102, 241, 0.15)" stroke="rgba(165, 180, 252, 0.3)" stroke-width="1" />
     <circle cx="-142" cy="0" r="5" fill="#10b981" filter="url(#glow)" />
-    <text x="-124" y="5" class="badge-text" fill="#a5b4fc">AI &amp; MACHINE LEARNING ENGINEER</text>
+    <text x="-124" y="5" class="badge-text" fill="#a5b4fc">AI ENGINEER &amp; STUDENT RESEARCHER</text>
   </g>
 
   <!-- Main Headline Name -->
@@ -128,7 +128,7 @@
 
   <!-- Subtitle Tagline -->
   <text x="600" y="185" text-anchor="middle" class="desc-text">
-    Architecting Production RAG Systems • Autonomous Agents • Full-Stack AI
+    RAG Systems • AI Agents • Intelligent Software
   </text>
 
   <!-- Interactive Tech Pill Badges -->
