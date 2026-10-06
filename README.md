@@ -4,6 +4,13 @@
 
   <br/><br/>
 
+  <!-- Rotating Dynamic Typing Subtitle -->
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+RAG+Systems+%26+AI+Agents;Architecting+Intelligent+Applications;Exploring+Vector+Search+%26+LLM+Pipelines;Designing+Autonomous+AI+Workflows&font=Fira+Code&center=true&width=560&height=46&color=6366F1&vCenter=true&pause=1100&size=19" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
   <p align="center">
     <strong>AI Engineer &amp; Student Researcher building RAG systems, AI agents, and intelligent software.</strong>
   </p>
