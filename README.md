@@ -28,6 +28,8 @@
     <a href="https://github.com/mubashir-sohail-dev">
       <img src="https://img.shields.io/badge/GitHub-mubashir--sohail--dev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=mubashir-sohail-dev&style=flat-square&color=6366F1" alt="Profile Views" />
   </p>
 </div>
 
