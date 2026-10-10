@@ -15,7 +15,7 @@
     <strong>AI Engineer &amp; Student Researcher building RAG systems, AI agents, and intelligent software.</strong>
   </p>
 
-  <!-- Clean Contact Links -->
+<!-- Clean Contact Links -->
   <p align="center">
     <a href="https://www.linkedin.com/in/mubashir-sohail-dev">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/GitHub-mubashir--sohail--dev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=mubashir-sohail-dev&style=flat-square&color=6366F1" alt="Profile Views" />
+    <img src="https://api.visitorbadge.io/api/visitors?path=mubashir-sohail-dev&label=Profile%20Views&countColor=6366F1&style=flat-square" alt="Profile Views" />
   </p>
 </div>
 
